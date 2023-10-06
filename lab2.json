@@ -2,16 +2,19 @@
     {
         "name": "Иванов Иван",
         "group": "АС-59",
-        "fakultet": "ФЭИС"
+        "fakultet": "ФЭИС",
+        "age": 18
     },
     {
         "name": "Сидоров Иван",
         "group": "АС-58",
-        "fakultet": "ФЭИС"
+        "fakultet": "ФЭИС",
+        "age": 20
     },
     {
         "name": "Петров Владимир",
         "group": "МС-10",
-        "fakultet": "СФ"
+        "fakultet": "СФ",
+        "age": 21
     }
 ]
